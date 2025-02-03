@@ -19,4 +19,21 @@ html {
 
 body {
   margin-bottom: 60px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+footer{
+  text-align: center;
+}
+
+p {
+  max-width: 500px; /* Adjust the width to your preference */
+  text-align: center;
+  margin: 0 auto; /* Centers the block */
+  line-height: 1.5; /* Improves readability */
+}
+
+#grandTotal{
+  font-weight: bolder;
+  font-size: larger;
 }
